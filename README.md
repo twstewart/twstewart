@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/rGtSyyf/github-profile-banner.jpg" />
 <h1 align="left">Hello there 👋, I'm Travis!</h1>
-<h3 align="left">I’m a Software Engineer from the US, passionate about all things related to web development. I love building modern websites and web apps. I also enjoy wire-framing, UI/UX and design in general.</h3>
+<h3 align="left">I’m a Software Engineer based in the US; passionate about all things related to web development. I love building modern websites and web apps. I also enjoy wire-framing, UI/UX and design in general.</h3>
 &nbsp;
 
 <img align="right" width="400" src="https://i.ibb.co/r3mY1cz/animated-coding-gif.gif" alt="animated coding gif" />
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **fun and interesting hobby projects to further develop my skills as a programmer**
 
-- 💞️ I’m always game to connect **with other Developers to collaborate on open-source and hobby projects**
+- 💞️ I’m always looking to connect **with other Developers to collaborate on open-source projects**
 
 - 💬 Ask me anything about **typescript, react, node.js, or python**
 
