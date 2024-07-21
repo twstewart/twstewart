@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/rGtSyyf/github-profile-banner.jpg" />
 <h1 align="left">Hello there 👋, I'm Travis!</h1>
-<h3 align="left">I’m a Software Engineer based in the US; passionate about the ever-changing world of technology! I love building modern websites and web apps. I also enjoy wire-framing, UI/UX and design in general.</h3>
+<h3 align="left">I am a Software Engineer passionate about the ever-changing world of technology! Specializing in full-stack development and cloud technologies. I love building modern web apps that are aesthetically pleasing and performant that ultimately create meaningful user engagement, in addition to continuously improving and learning new skills.</h3>
 &nbsp;
 
 <img align="right" width="400" src="https://i.ibb.co/r3mY1cz/animated-coding-gif.gif" alt="animated coding gif" />
